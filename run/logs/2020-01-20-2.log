@@ -1,0 +1,92 @@
+[17:03:07] [main/INFO] [GradleStart]: Extra: []
+[17:03:07] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, net.minecraftforge.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:03:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:03:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:03:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:03:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[17:03:08] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_231, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_231\jre
+[17:03:08] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[17:03:08] [main/ERROR] [FML]: Full: C:\Users\Mattia\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[17:03:08] [main/ERROR] [FML]: Trimmed: c:/users/mattia/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[17:03:08] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[17:03:08] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[17:03:08] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[17:03:08] [main/INFO] [FML]: Searching D:\Documents\MinecraftMods\EmeraldTools\run\.\mods for mods
+[17:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:03:08] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[17:03:08] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[17:03:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:03:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[17:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:09] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[17:03:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:03:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[17:03:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:03:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:03:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:03:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[17:03:13] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[17:03:13] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:03:13] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:03:14] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[17:03:14] [Server thread/INFO] [FML]: Config directory created successfully
+[17:03:14] [Server thread/INFO] [FML]: Searching D:\Documents\MinecraftMods\EmeraldTools\run\.\mods for mods
+[17:03:15] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[17:03:15] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:03:15] [Server thread/WARN] [FML]: Missing English translation for examplemod: /D:/Documents/MinecraftMods/EmeraldTools/build/classes/java/main/assets/examplemod/lang/en_us.lang
+[17:03:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, examplemod] at CLIENT
+[17:03:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, examplemod] at SERVER
+[17:03:16] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:03:16] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[17:03:16] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:03:16] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:03:16] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:03:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:03:16] [Server thread/INFO] [FML]: Applying holder lookups
+[17:03:16] [Server thread/INFO] [FML]: Holder lookups applied
+[17:03:16] [Server thread/INFO] [FML]: Applying holder lookups
+[17:03:16] [Server thread/INFO] [FML]: Holder lookups applied
+[17:03:16] [Server thread/INFO] [FML]: Applying holder lookups
+[17:03:16] [Server thread/INFO] [FML]: Holder lookups applied
+[17:03:16] [Server thread/INFO] [FML]: Applying holder lookups
+[17:03:16] [Server thread/INFO] [FML]: Holder lookups applied
+[17:03:16] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:03:16] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[17:03:16] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
+[17:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
+[17:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[17:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[17:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[17:03:16] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[17:03:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[17:03:17] [Server thread/INFO] [FML]: Applying holder lookups
+[17:03:17] [Server thread/INFO] [FML]: Holder lookups applied
+[17:03:17] [Server thread/INFO] [examplemod]: DIRT BLOCK >> minecraft:dirt
+[17:03:17] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:03:17] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:03:17] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[17:03:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[17:03:17] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@43c06144)
+[17:03:18] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[17:03:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@43c06144)
+[17:03:19] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@43c06144)
+[17:03:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[17:03:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[17:03:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
+[17:03:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[17:03:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
+[17:03:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[17:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[17:03:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 75%
+[17:03:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[17:03:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 97%
+[17:03:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (10.717s)! For help, type "help" or "?"
+[17:03:28] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:03:28] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:13:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Time ran backwards! Did the system time change?
